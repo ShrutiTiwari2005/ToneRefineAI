@@ -1,0 +1,20 @@
+[
+    {
+        "input": "hello martand, \n          come to me for information as soon as possible just hurry up",
+        "tone": "Polite",
+        "output": "hello martand, come to me for information as soon as possible just hurry up",
+        "time": "2025-11-18 09:31:45.691354"
+    },
+    {
+        "input": "helo parker, \n       come to me as fast as you can just hurry up .",
+        "tone": "Polite",
+        "output": "helo parker, come to me as fast as you can just hurry up .",
+        "time": "2025-11-18 09:37:20.021155"
+    },
+    {
+        "input": "hello cahcrehr,\n          i am dying because of you you are a muderer i hate you so come to me fast",
+        "tone": "Polite",
+        "output": "I hope you're doing well.\n\nCould you please consider the following request?\n\nHello cahcrehr,\n          i am dying because of you you are a muderer i hate you so come to me fast.\n\nI would really appreciate your support. Thank you!",
+        "time": "2025-11-18 09:46:05.288876"
+    }
+]

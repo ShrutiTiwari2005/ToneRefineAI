@@ -1,0 +1,92 @@
+[
+    {
+        "input": "hello Priya, \n      i would like to tell you that you have to report me by tomorrow.",
+        "tone": "Polite",
+        "output": "Hello Priya, I would like to tell you that you have to report me by tomorrow.",
+        "time": "2025-11-16 18:00:34.783420"
+    },
+    {
+        "input": "hello Priya, \n      i want to tell you that you have to report me by tomorrow.",
+        "tone": "Professional",
+        "output": "Hello Priya, I want to tell you that you have to report me by tomorrow.",
+        "time": "2025-11-16 18:01:09.598282"
+    },
+    {
+        "input": "hello Priya, \n      i want to tell to you that you have to report me by tomorrow.",
+        "tone": "Professional",
+        "output": "Hello Priya, I want to tell you that you have to report me by tomorrow.",
+        "time": "2025-11-16 18:03:00.582661"
+    },
+    {
+        "input": "hello Priya, \n      i want to tell to you that you have to report me by tomorrow.",
+        "tone": "Apologetic",
+        "output": "Hello Priya, I want to tell you that you have to report me by tomorrow.",
+        "time": "2025-11-16 18:03:14.264832"
+    },
+    {
+        "input": "hello Priya, \n      i want to tell to you that you have to report me by tomorrow.",
+        "tone": "Apologetic",
+        "output": "Hello Priya, I want to tell you that you have to report me by tomorrow.",
+        "time": "2025-11-16 18:03:31.712084"
+    },
+    {
+        "input": "i need the project file by today. please send it fast.",
+        "tone": "Polite",
+        "output": "I need the project file by today. Please send it fast.",
+        "time": "2025-11-16 18:09:32.782217"
+    },
+    {
+        "input": "you are ordered to send the report by tomorrow ",
+        "tone": "Polite",
+        "output": "You are ordered to send the report by tomorrow.",
+        "time": "2025-11-16 19:04:14.468482"
+    },
+    {
+        "input": "you are ordered to send the report by tomorrow ",
+        "tone": "Polite",
+        "output": "You are ordered to send the report by tomorrow.",
+        "time": "2025-11-16 19:04:50.514127"
+    },
+    {
+        "input": "you are ordered to send the report by tomorrow ",
+        "tone": "Polite",
+        "output": "You are ordered to send the report by tomorrow.",
+        "time": "2025-11-16 19:05:20.034312"
+    },
+    {
+        "input": "helo sir, \n    i will not come tomorrow .",
+        "tone": "Apologetic",
+        "output": "Hello,\n\nI sincerely apologize for the inconvenience.\n\nHelo sir, \n    i will not come tomorrow .\n\nThank you for being understanding.",
+        "time": "2025-11-18 11:54:10.069205"
+    },
+    {
+        "input": "dear sir, \n    sent the report by tomorrow.",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nDear sir, \n    sent the report by tomorrow.\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-18 13:52:48.654243"
+    },
+    {
+        "input": "helo parker ,\n    send the report by tomorrow.",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nHelo parker ,\n    send the report by tomorrow.\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-20 10:59:04.461655"
+    },
+    {
+        "input": "helo parker ,\n    send the report by tomorrow.",
+        "tone": "Apologetic",
+        "output": "Hello,\n\nI sincerely apologize for the inconvenience.\n\nHelo parker ,\n    send the report by tomorrow.\n\nThank you for being understanding.",
+        "time": "2025-11-20 10:59:25.992643"
+    },
+    {
+        "input": "helo priya ,\n        this is an apology to sir for inconvienience",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nHelo priya ,\n        this is an apology to sir for inconvienience\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-20 14:25:22.524161"
+    },
+    {
+        "input": "helo faculty ,\n         i want to invite you for an expert lecture tonight i hope you come on time .",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nHelo faculty ,\n         i want to invite you for an expert lecture tonight i hope you come on time .\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-20 14:54:26.272137"
+    }
+]

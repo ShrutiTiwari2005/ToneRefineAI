@@ -1,0 +1,14 @@
+[
+    {
+        "input": "helo sir ,\n   take the session by 4 pm.",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nHelo sir ,\n   take the session by 4 pm.\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-18 11:51:50.935605"
+    },
+    {
+        "input": "helo sir ,\n   take the session by 4 pm.",
+        "tone": "Friendly",
+        "output": "Hey!\n\nHelo sir ,\n   take the session by 4 pm.\n\nJust wanted to let you know. Thanks a lot! \ud83d\ude0a",
+        "time": "2025-11-18 11:52:05.301508"
+    }
+]

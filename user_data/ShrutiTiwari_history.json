@@ -1,0 +1,38 @@
+[
+    {
+        "time": "2025-12-08T13:34:22",
+        "tone": "Professional",
+        "input": "helo kiran,\n  i m not come to do any work so dont call me now any time ",
+        "output": "Hello Kiran,I am not coming to do any work."
+    },
+    {
+        "time": "2025-12-08T13:34:48",
+        "tone": "Apologetic",
+        "input": "helo kiran,\n  i m not come to do any work so dont call me now any time ",
+        "output": "INPUT"
+    },
+    {
+        "time": "2025-12-08T13:35:07",
+        "tone": "Apologetic",
+        "input": "helo kiran,\n  i m not come to do any work so dont call me now any time \n",
+        "output": "INPUT"
+    },
+    {
+        "time": "2025-12-08T13:36:12",
+        "tone": "Polite",
+        "input": "helo kiran ,  \n i m not come to do your work  \n",
+        "output": "Hello Kiran,I am not coming to do my work."
+    },
+    {
+        "time": "2025-12-08T13:47:48",
+        "tone": "Apologetic",
+        "input": "helo atul, \n    iam not come to tomorerow pls send me some work",
+        "output": "I’m sorry for the inconvenience. INPUT Thank you for understanding."
+    },
+    {
+        "time": "2025-12-08T13:54:58",
+        "tone": "Polite",
+        "input": "helo parker,\n   i m not come to do office work tommorrow thats it",
+        "output": "Hello Parker,I will not be able to come to do office work tomorrow that it Could you please Thank you."
+    }
+]

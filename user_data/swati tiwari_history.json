@@ -1,0 +1,14 @@
+[
+    {
+        "input": "hello sir , \n        i order you to take the session by 2pm .",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nHello sir , \n        i order you to take the session by 2pm .\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-18 11:47:14.405355"
+    },
+    {
+        "input": "hello sir , \n        i order you to take the session by 2pm .",
+        "tone": "Professional",
+        "output": "Greetings,\n\nHello sir , \n        i order you to take the session by 2pm .\n\nKindly address this matter at the earliest. Thank you for your cooperation.\nRegards.",
+        "time": "2025-11-18 11:47:47.752959"
+    }
+]

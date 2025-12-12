@@ -1,0 +1,14 @@
+[
+    {
+        "input": "dear bittu,\n       i am going to take all your money. i will do thyis by this time.",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nDear bittu,\n       i am going to take all your money. i will do thyis by this time.\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-18 21:20:58.471295"
+    },
+    {
+        "input": "dear bittu,\n       i am going to take all your money. i will do thyis by this time.",
+        "tone": "Professional",
+        "output": "Greetings,\n\nDear bittu,\n       i am going to take all your money. i will do thyis by this time.\n\nKindly address this matter at the earliest. Thank you for your cooperation.\nRegards.",
+        "time": "2025-11-18 21:21:23.640695"
+    }
+]

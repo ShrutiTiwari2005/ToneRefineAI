@@ -1,0 +1,26 @@
+[
+    {
+        "input": "helo parker,\n   i am not coming tomarrow so report me now",
+        "tone": "Polite",
+        "output": "helo parker, i am not coming tomarrow so report me now.",
+        "time": "2025-12-08T12:16:01"
+    },
+    {
+        "input": "helo parker,\n   i am not coming tomarrow so report me now",
+        "tone": "Polite",
+        "output": "helo parker, i am not coming tomarrow so report me now. Could you please look into this at your earliest convenience? I’d really appreciate your support. Thank you.",
+        "time": "2025-12-08T12:16:23"
+    },
+    {
+        "input": "helo parker,\n   reprot me by tomowrrroew",
+        "tone": "Professional",
+        "output": "Helo parker, reprot me by tomowrrroew.",
+        "time": "2025-12-08T12:21:29"
+    },
+    {
+        "input": "helo marti,\n  i am not come to toomorow dont call me now ",
+        "tone": "Professional",
+        "output": "helo marti, i am not come to toomorow dont call me now.",
+        "time": "2025-12-08T12:35:31"
+    }
+]

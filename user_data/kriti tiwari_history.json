@@ -1,0 +1,8 @@
+[
+    {
+        "input": "helo parker, \n          come to my office within 5 min .",
+        "tone": "Polite",
+        "output": "I hope you're doing well.\n\nCould you please consider the following request?\n\nHelo parker, \n          come to my office within 5 min ..\n\nI would really appreciate your support. Thank you!",
+        "time": "2025-11-18 09:41:48.608867"
+    }
+]

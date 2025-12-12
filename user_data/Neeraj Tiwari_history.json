@@ -1,0 +1,20 @@
+[
+    {
+        "input": "Mr. Piyush sir,\n       i will not come tomorrow that's it.",
+        "tone": "Polite",
+        "output": "I hope you are doing well.\n\nMr. piyush sir,\n       i will not come tomorrow that's it.\n\nCould you please take a moment to look into this? I would truly appreciate your support. Thank you.",
+        "time": "2025-11-18 21:13:25.115075"
+    },
+    {
+        "input": "Mr. Piyush sir,\n       i will not come tomorrow that's it.",
+        "tone": "Apologetic",
+        "output": "Hello,\n\nI sincerely apologize for the inconvenience.\n\nMr. piyush sir,\n       i will not come tomorrow that's it.\n\nThank you for being understanding.",
+        "time": "2025-11-18 21:14:04.201255"
+    },
+    {
+        "input": "Mr. Piyush sir,\n       dm wata system will complete in 3 to 4 days ",
+        "tone": "Apologetic",
+        "output": "Hello,\n\nI sincerely apologize for the inconvenience.\n\nMr. piyush sir,\n       dm wata system will complete in 3 to 4 days\n\nThank you for being understanding.",
+        "time": "2025-11-18 21:15:23.767100"
+    }
+]
